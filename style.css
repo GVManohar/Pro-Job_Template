@@ -1,0 +1,98 @@
+@media (max-width: 767px) {
+    .content {
+    padding-top: 1rem !important;
+    padding-bottom: 18px !important;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+}
+
+
+
+.nav {
+    padding-top: 1rem;
+}
+
+.nav h4 span {
+    color: #7df498;
+}
+.nav ul li {
+    float: left;
+    list-style: none;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 1px 18px;
+}
+.nav ul li a {
+    color: black;
+}
+.nav ul li a:hover{
+  
+    text-decoration-style: double;
+    text-decoration-color: #7df498;
+}
+button.btn.btn-primary {
+    padding: 0;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    padding-left: 25px;
+    border-radius: 0px;
+    font-size: 12px;
+    font-weight: 600;
+    background: #71cf86;
+    border: 0;
+    padding-right: 25px;
+}
+img {
+    width: 100%;
+    float: right;
+    }
+    p {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.content {
+    border-bottom: 75px solid #81ca81;
+    padding-top: 10rem;
+    padding-bottom: 102px;
+}
+.content a {
+   font-size: 14px;
+    margin-left: 20px;
+    color: black;
+}
+i.fa.fa-play-circle-o {
+    color: #71cf86;
+
+}
+.details .text i.fa.fa-calendar {
+    color: green;
+    background: #a4f6a4;
+    font-size: 27px;
+    margin-bottom: 1rem;
+    padding: 11px 13px;
+}
+.details .text i.fa.fa-user {
+    color: salmon;
+    font-size: 27px;
+    background: #ffa07a63;
+    margin-bottom: 1rem;
+    padding: 11px 15px;
+}
+.text {
+    width: 72%;
+    margin: auto;
+}
+.details {
+    margin-top: 6rem;
+}
+.best {
+    text-align: center;
+        padding: 4rem 0rem;
+}
+.best h3 {
+    font-weight: 700;
+}
+.best p {
+    opacity: 0.7;
+}
